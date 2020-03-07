@@ -6,7 +6,8 @@
 
 ## Demo
 
-<b>I didn't host it yet. I will add in in future</b>
+<a href="https://maassim.com/projects/tips/">French version</a>
+<p>English version(Not hosted yet)</p>
 
 ## Technologies used
 
