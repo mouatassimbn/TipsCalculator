@@ -1,4 +1,4 @@
-# pourboire
+# Bill seperator and tips calculator
 
 ##Description
 
